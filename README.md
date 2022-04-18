@@ -1,6 +1,5 @@
 - 👋 Hi, I’m saurav gupta
 - 👀 I’m interested in deep learning, computer vision
-- 🌱 I’m currently interested in deep learning for vision
 - 📫 You can reach me at sauravgupta3108@gmail.com
 
 <!---
